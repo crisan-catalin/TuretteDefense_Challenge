@@ -1,0 +1,6 @@
+c:\users\catalin\documents\visual studio 2015\Projects\TuretteDefense_Challenge\TuretteDefense_Challenge\bin\Debug\TuretteDefense_Challenge.exe.config
+c:\users\catalin\documents\visual studio 2015\Projects\TuretteDefense_Challenge\TuretteDefense_Challenge\bin\Debug\TuretteDefense_Challenge.exe
+c:\users\catalin\documents\visual studio 2015\Projects\TuretteDefense_Challenge\TuretteDefense_Challenge\bin\Debug\TuretteDefense_Challenge.pdb
+c:\users\catalin\documents\visual studio 2015\Projects\TuretteDefense_Challenge\TuretteDefense_Challenge\obj\Debug\TuretteDefense_Challenge.csprojResolveAssemblyReference.cache
+c:\users\catalin\documents\visual studio 2015\Projects\TuretteDefense_Challenge\TuretteDefense_Challenge\obj\Debug\TuretteDefense_Challenge.exe
+c:\users\catalin\documents\visual studio 2015\Projects\TuretteDefense_Challenge\TuretteDefense_Challenge\obj\Debug\TuretteDefense_Challenge.pdb
