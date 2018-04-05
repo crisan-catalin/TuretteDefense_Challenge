@@ -11,8 +11,7 @@ Your method will return the index of the earliest target that cannot be shot dow
     xs    = {3,5,6}  
     ys    = {7,5,6}  
     times = {11,15,16}.  
-Your turret always begins aimed at (0,0) at time 0. Since the first target is arriving at location (3,7) at time 11 you have 11 seconds  
-to move there and fire. This is 1 second more than is needed. At time 11 you fire the turret, and immediately start moving to aim at (5,5).  
+Your turret always begins aimed at (0,0) at time 0. Since the first target is arriving at location (3,7) at time 11 you have 11 seconds to move there and fire. This is 1 second more than is needed. At time 11 you fire the turret, and immediately start moving to aim at (5,5).  
 Since the second target arrives at time 15, you have 4 seconds to aim. This is exactly enough time. At time 15, you fire at the second target.  
 Unfortunately, the third target will arrive before you can shoot it down.  
 You would return 2 since target 2 (third target) is the earliest one you couldn't shoot down. If you could shoot them all down, return -1.  
